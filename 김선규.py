@@ -1,3 +1,5 @@
+# 추가 코드
+# 멀티스케일 매칭
 def multiscale_matching(img1, img2, gray1, gray2):
 ratio = 0.75
 max_matches = 0
@@ -24,5 +26,5 @@ for scale in np.linspace(0.1, 1.0, 20)[::-1]:
         best_matches = good_matches
 
 return best_scale, best_kp1, best_kp2, best_matches
-
+# 멀티스케일 매칭 결과 얻기
 best_scale, best_kp1, best_kp2, best_matches = multiscale_matching(img1, img2, gray1, gray2)
