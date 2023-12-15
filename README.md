@@ -1,9 +1,9 @@
 ## Performing Feature matching between two images with OpenCV
 This project provides an example of performing feature matching between two images using OpenCV and Python. Before the matching process, it visually displays the word "Star" around the matched feature points.
 #### Packages Used and Versions:
-  1. python (3.7.3) (It is safe to use the latest version.)
-  2. opencv (4.1.0) (It is safe to use the latest version.)
-  3. numpy (1.61.4) (It is safe to use the latest version.)
+  1. python (3.7.3)&nbsp;&nbsp;  (It is safe to use the latest version.)
+  2. opencv (4.1.0)&nbsp;&nbsp;  (It is safe to use the latest version.)
+  3. numpy (1.61.4)&nbsp;&nbsp;  (It is safe to use the latest version.)
 #### How to run
   1. GitHub Repository Clone:
   
