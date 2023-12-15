@@ -46,21 +46,11 @@ This project provides an example of performing feature matching between two imag
    * Draw the text "Star" near the average positions of good matches in both images.
              
 
-  
-
-
-
-
-
-
-
-
-
-
-
 
 #### Reference:
 * <https://bkshin.tistory.com/entry/OpenCV-28-%ED%8A%B9%EC%A7%95-%EB%A7%A4%EC%B9%ADFeature-Matching>
+* <https://colinch4.github.io/2023-09-07/13-50-29-165928/>
+* <https://yoonju-1010.tistory.com/56>
    
 
 
