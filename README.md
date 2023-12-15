@@ -49,8 +49,10 @@ This project provides an example of performing feature matching between two imag
 
 #### Reference:
 * <https://bkshin.tistory.com/entry/OpenCV-28-%ED%8A%B9%EC%A7%95-%EB%A7%A4%EC%B9%ADFeature-Matching>
-* <https://colinch4.github.io/2023-09-07/13-50-29-165928/>
-* <https://yoonju-1010.tistory.com/56>
+* <https://www.geeksforgeeks.org/multi-template-matching-with-opencv/>
+* <https://blog.naver.com/PostView.nhn?blogId=tommybee&logNo=221906750991>
+* <https://bkshin.tistory.com/entry/OpenCV-19-%EB%AA%A8%ED%8F%B4%EB%A1%9C%EC%A7%80Morphology-%EC%97%B0%EC%82%B0-%EC%B9%A8%EC%8B%9D-%ED%8C%BD%EC%B0%BD-%EC%97%B4%EB%A6%BC-%EB%8B%AB%ED%9E%98-%EA%B7%B8%EB%A0%88%EB%94%94%EC%96%B8%ED%8A%B8-%ED%83%91%ED%96%87-%EB%B8%94%EB%9E%99%ED%96%87>
+* <https://rahites.tistory.com/62>
    
 
 
